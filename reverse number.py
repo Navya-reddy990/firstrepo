@@ -10,7 +10,7 @@ def ispalindrome(n):
     return n==reverse(n)
 
 print(reverse(123))
-print(ispalindrome(123))
+print(ispalindrome(1236))
 print(reverse(121))
 print(ispalindrome(1219))
 
