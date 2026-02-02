@@ -1,1 +1,6 @@
 my name is navya
+
+new story is added 
+x=10
+y=20
+z=x+y
